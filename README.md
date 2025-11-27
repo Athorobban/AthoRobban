@@ -1,4 +1,4 @@
-## Hi there, I,m Atho Robban Azmi 👋
+## Hi there, I'm Atho Robban Azmi 👋
 
 <!--
 **Athorobban/AthoRobban** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
