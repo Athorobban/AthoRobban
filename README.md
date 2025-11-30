@@ -1,3 +1,5 @@
+![Atho Robban](img/github-header-banner.png)
+
 ## Hi there, I'm Atho Robban Azmi 👋
 
 <!--
@@ -16,3 +18,5 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 I’m currently learning Next JS
+
+##### Skills
