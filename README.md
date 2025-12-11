@@ -2,7 +2,7 @@
 
 ## Hi there, I'm Atho Robban Azmi 👋
 
-##### Software Developer | UI/UX Designer | AI & Web Technology Enthusiast
+##### Software Developer | UI/UX Designer
 
 <!--
 **Athorobban/AthoRobban** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
