@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi! I'm **Atho**, a web developer from **Kendal, Indonesia**, passionate about building modern, responsive interfaces and crafting great user experiences.  
+Hi! I'm **Atho**, a Software Developer from **Kendal, Indonesia**, passionate about building modern, responsive interfaces and crafting great user experiences.  
 I focus on **Next.js, TypeScript, Firebase/Supabase**, and **AI-powered applications**—including building smart e-learning platforms and chatbot systems.
 
 ## 🚀 Tech Stack
