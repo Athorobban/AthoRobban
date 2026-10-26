@@ -33,7 +33,7 @@ I am a multidisciplinary professional dedicated to creating innovative, secure, 
 
 #### **Tools & Design**
 
-[![My Skills](https://skillicons.dev/icons?i=figma,git,github,vscode,kalilinux&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,git,github,vscode,kali&perline=3)](https://skillicons.dev)
 
 ## 📌 Featured Projects
 
@@ -46,21 +46,21 @@ A full-stack e-learning website with an integrated AI assistant that helps stude
 
 A comprehensive, full-stack financial management application that integrates artificial intelligence to provide deep financial insights.
 
-**- AI Integration**: Utilizes the Gemini AI API to automatically generate financial insight reports, provide personalized savings guidance, and offer an interactive chatbot feature.
+  **- AI Integration**: Utilizes the Gemini AI API to automatically generate financial insight reports, provide personalized savings guidance, and offer an     interactive chatbot feature.
 
-**- Security & Infrastructure**: Equipped with an authentication proxy and middleware rules to safeguard application routes. It features custom database authentication scripts to manage role-based access control (Admin and User) securely within Supabase.
+  **- Security & Infrastructure**: Equipped with an authentication proxy and middleware rules to safeguard application routes. It features custom database authentication scripts to manage role-based access control (Admin and User) securely within Supabase.
 
-**- Data Management**: Leverages Supabase storage buckets for the secure and efficient management of user file uploads.
+  **- Data Management**: Leverages Supabase storage buckets for the secure and efficient management of user file uploads.
 
 #### 🔹 **🎓 E-Learning Eduvance**
 
 An interactive e-learning platform designed with modern architecture to deliver an optimal teaching and learning experience.
 
-**- Core Technology**: Built using the Next.js App Router and Supabase database to ensure fast, reliable, and scalable performance.
+  **- Core Technology**: Built using the Next.js App Router and Supabase database to ensure fast, reliable, and scalable performance.
 
-**- UI/UX & Design**: Implements a sleek, modern interface utilizing Shadcn UI components and custom sidebar layouts. Features highly interactive and validated form designs (for quizzes and assignments) using React Hook Form and Zod.
+  **- UI/UX & Design**: Implements a sleek, modern interface utilizing Shadcn UI components and custom sidebar layouts. Features highly interactive and validated form designs (for quizzes and assignments) using React Hook Form and Zod.
 
-**- Smart Features**: Integrated with an AI-driven report panel that provides performance analytics and valuable learning insights for both students and educators.
+  **- Smart Features**: Integrated with an AI-driven report panel that provides performance analytics and valuable learning insights for both students and educators.
 
 ## 🧩 UI/UX Showcase
 
